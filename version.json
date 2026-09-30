@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://github.com/mightymonster/studyquiz/releases/download/v1.2/StudyQuiz-1.2.apk",
-  "notesMl": "താഴെ 🏠 Home | 👤 Profile navigation വന്നു. പുതിയ version വന്നാൽ ആപ്പ് തന്നെ അറിയിക്കും.",
-  "notesEn": "Bottom navigation (Home | Profile) added. The app now tells you when a new version is out."
+  "versionCode": 43,
+  "versionName": "1.43",
+  "apkUrl": "https://github.com/mightymonster/studyquiz/releases/download/v1.43/StudyQuiz-1.43.apk",
+  "notesMl": "പുതിയത് v1.43-ൽ ✨ Splash logo theme അനുസരിച്ച് മാറും 🌗 Dark theme, smooth banner, PYQ papers (1060/2025, 1045/2023, 1044/2023), quiz shuffle, notifications bell 🔔. Update ചെയ്താൽ bookmarks, history, progress എല്ലാം നിലനിൽക്കും.",
+  "notesEn": "v1.43: theme-aware splash logo, dark theme, seamless banner, PYQ papers (1060/2025, 1045/2023, 1044/2023), quiz shuffle, notifications. Updating keeps your bookmarks, history and progress."
 }
