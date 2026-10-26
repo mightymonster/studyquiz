@@ -1,0 +1,93 @@
+{
+ "sections": [
+  {
+   "exams": [
+    {
+     "date": null,
+     "id": "cseb-17-2026",
+     "notif_no": "17/2026",
+     "pdf": "notifications/CSEB-17-2026.pdf",
+     "post_en": "Junior Clerk, Super Grade Bank"
+    },
+    {
+     "date": null,
+     "id": "cseb-18-2026",
+     "notif_no": "18/2026",
+     "pdf": "notifications/CSEB-18-2026.pdf",
+     "post_en": "Junior Clerk, Special Grade Class I Bank"
+    },
+    {
+     "date": null,
+     "id": "cseb-19-2026",
+     "notif_no": "19/2026",
+     "pdf": "notifications/CSEB-19-2026.pdf",
+     "post_en": "Junior Clerk, Class II to Class VII"
+    },
+    {
+     "date": null,
+     "id": "cseb-12-2026",
+     "notif_no": "12/2026",
+     "pdf": "notifications/CSEB-12-2026.pdf",
+     "post_en": "Junior Clerk, Class II to Class VII"
+    },
+    {
+     "date": null,
+     "id": "cseb-11-2026",
+     "notif_no": "11/2026",
+     "pdf": "notifications/CSEB-11-2026.pdf",
+     "post_en": "Junior Clerk, Special Grade Class I Bank"
+    },
+    {
+     "date": null,
+     "id": "cseb-10-2026",
+     "notif_no": "10/2026",
+     "pdf": "notifications/CSEB-10-2026.pdf",
+     "post_en": "Junior Clerk, Super Grade Bank"
+    },
+    {
+     "date": null,
+     "id": "cseb-42-2025",
+     "notif_no": "42/2025",
+     "pdf": "notifications/CSEB-42-2025.pdf",
+     "post_en": "Junior Clerk"
+    },
+    {
+     "date": null,
+     "id": "cseb-38-2025",
+     "notif_no": "38/2025",
+     "pdf": "notifications/CSEB-38-2025.pdf",
+     "post_en": "Junior Clerk, Class II to Class VII"
+    },
+    {
+     "date": null,
+     "id": "cseb-37-2025",
+     "notif_no": "37/2025",
+     "pdf": "notifications/CSEB-37-2025.pdf",
+     "post_en": "Junior Clerk, Special Grade Class I Bank"
+    },
+    {
+     "date": null,
+     "id": "cseb-36-2025",
+     "notif_no": "36/2025",
+     "pdf": "notifications/CSEB-36-2025.pdf",
+     "post_en": "Junior Clerk, Super Grade Bank"
+    }
+   ],
+   "title_en": "CSEB Upcoming",
+   "title_ml": "CSEB വരാനിരിക്കുന്നവ"
+  },
+  {
+   "exams": [
+    {
+     "date": "2027-01-27",
+     "id": "psc-090-2026",
+     "notif_no": "090/2026",
+     "pdf": "notifications/090-2026.pdf",
+     "post_en": "Junior Clerk (General Category)"
+    }
+   ],
+   "title_en": "PSC Upcoming",
+   "title_ml": "PSC വരാനിരിക്കുന്നവ"
+  }
+ ]
+}

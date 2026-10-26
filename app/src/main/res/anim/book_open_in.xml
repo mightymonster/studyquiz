@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Incoming screen sweeps in like a book page turning open (from the left edge). -->
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:interpolator/decelerate_cubic">
+    <translate
+        android:fromXDelta="18%"
+        android:toXDelta="0%"
+        android:duration="360" />
+    <rotate
+        android:fromDegrees="-6"
+        android:toDegrees="0"
+        android:pivotX="0%"
+        android:pivotY="50%"
+        android:duration="360" />
+    <alpha
+        android:fromAlpha="0.25"
+        android:toAlpha="1.0"
+        android:duration="360" />
+</set>

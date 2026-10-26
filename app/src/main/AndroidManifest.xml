@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.anandu.studyquiz">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" android:maxSdkVersion="28" />
+    <uses-sdk android:minSdkVersion="24" android:targetSdkVersion="34" />
+
+    <application
+        android:label="@string/app_name"
+        android:icon="@mipmap/ic_launcher"
+        android:theme="@android:style/Theme.Material.Light.NoActionBar"
+        android:allowBackup="true">
+
+        <activity
+            android:name="com.anandu.studyquiz.SplashActivity"
+            android:theme="@style/SplashTheme"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.anandu.studyquiz.MainActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.anandu.studyquiz.TopicDetailActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.anandu.studyquiz.QuizActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.anandu.studyquiz.ResultActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.anandu.studyquiz.ProfileActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.anandu.studyquiz.SettingsActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.anandu.studyquiz.MockTestActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.anandu.studyquiz.BookmarksActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.anandu.studyquiz.UpcomingExamsActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.anandu.studyquiz.PdfViewerActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.anandu.studyquiz.NotificationsActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.anandu.studyquiz.PyqPapersActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.anandu.studyquiz.PyqYearActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.anandu.studyquiz.PyqExamActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.anandu.studyquiz.PyqResultActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.anandu.studyquiz.HistoryActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.anandu.studyquiz.TimetableActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.anandu.studyquiz.TimetableSetupActivity"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.anandu.studyquiz.ReminderReceiver"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.anandu.studyquiz.TimetableReceiver"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.anandu.studyquiz.BootReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+    </application>
+
+</manifest>

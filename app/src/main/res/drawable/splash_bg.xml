@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Branded splash background: mint → teal gradient with subtle decorative circles.
+     Same artwork for light and dark mode — the splash is a fixed brand screen. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="270"
+                android:startColor="#E8F7F3"
+                android:centerColor="#93D9C5"
+                android:endColor="#008F7A"
+                android:type="linear" />
+        </shape>
+    </item>
+
+    <!-- subtle translucent white circles — decorative only -->
+    <item
+        android:width="170dp"
+        android:height="170dp"
+        android:gravity="top|left"
+        android:top="52dp"
+        android:left="-48dp">
+        <shape android:shape="oval">
+            <solid android:color="#14FFFFFF" />
+        </shape>
+    </item>
+    <item
+        android:width="230dp"
+        android:height="230dp"
+        android:gravity="top|right"
+        android:top="180dp"
+        android:right="-70dp">
+        <shape android:shape="oval">
+            <solid android:color="#12FFFFFF" />
+        </shape>
+    </item>
+    <item
+        android:width="120dp"
+        android:height="120dp"
+        android:gravity="bottom|left"
+        android:bottom="90dp"
+        android:left="36dp">
+        <shape android:shape="oval">
+            <solid android:color="#1AFFFFFF" />
+        </shape>
+    </item>
+
+</layer-list>

@@ -1,0 +1,97 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="360dp"
+    android:height="150dp"
+    android:viewportWidth="360"
+    android:viewportHeight="150">
+    <!-- paper-plane dotted flight trail -->
+    <path
+        android:fillColor="#A9DCC4"
+        android:pathData="M33.8,96 a2.2,2.2 0 1,0 4.4,0 a2.2,2.2 0 1,0 -4.4,0 Z" />
+    <path
+        android:fillColor="#A9DCC4"
+        android:pathData="M45.8,84 a2.2,2.2 0 1,0 4.4,0 a2.2,2.2 0 1,0 -4.4,0 Z" />
+    <path
+        android:fillColor="#A9DCC4"
+        android:pathData="M57.8,73 a2.2,2.2 0 1,0 4.4,0 a2.2,2.2 0 1,0 -4.4,0 Z" />
+    <path
+        android:fillColor="#A9DCC4"
+        android:pathData="M69.8,63 a2.2,2.2 0 1,0 4.4,0 a2.2,2.2 0 1,0 -4.4,0 Z" />
+    <path
+        android:fillColor="#A9DCC4"
+        android:pathData="M81.8,54 a2.2,2.2 0 1,0 4.4,0 a2.2,2.2 0 1,0 -4.4,0 Z" />
+    <!-- paper plane -->
+    <path
+        android:fillColor="#2E9E63"
+        android:pathData="M86,42 L132,24 L104,64 Z" />
+    <path
+        android:fillColor="#257A4E"
+        android:pathData="M86,42 L104,64 L96,50 Z" />
+    <!-- left plant -->
+    <path
+        android:fillColor="#3AAE6E"
+        android:pathData="M182,124 C178,100 182,78 194,62 C196,88 194,108 190,124 Z" />
+    <path
+        android:fillColor="#2E9E63"
+        android:pathData="M170,124 C168,106 174,90 186,80 C186,100 182,116 176,124 Z" />
+    <path
+        android:fillColor="#57B981"
+        android:pathData="M196,124 C196,112 200,102 208,96 C208,108 204,118 200,124 Z" />
+    <!-- right tall plant -->
+    <path
+        android:fillColor="#2E9E63"
+        android:pathData="M306,126 C302,92 306,58 320,30 C324,64 322,98 314,126 Z" />
+    <path
+        android:fillColor="#3AAE6E"
+        android:pathData="M292,126 C290,104 296,86 308,74 C308,96 304,114 298,126 Z" />
+    <path
+        android:fillColor="#257A4E"
+        android:pathData="M320,126 C320,108 326,94 336,86 C334,104 330,118 324,126 Z" />
+    <!-- stack shadow -->
+    <path
+        android:fillColor="#D8EAE1"
+        android:pathData="M187,130 a58,7 0 1,0 116,0 a58,7 0 1,0 -116,0 Z" />
+    <!-- bottom book: navy -->
+    <path
+        android:fillColor="#1A2E4A"
+        android:pathData="M196,108 h98 v18 h-98 Z" />
+    <path
+        android:fillColor="#243B5A"
+        android:pathData="M196,108 h98 v3 h-98 Z" />
+    <!-- middle book: white pages -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M202,92 h88 v16 h-88 Z" />
+    <path
+        android:fillColor="#DCE7E1"
+        android:pathData="M206,97 h80 v1.6 h-80 Z" />
+    <path
+        android:fillColor="#DCE7E1"
+        android:pathData="M206,101.5 h80 v1.6 h-80 Z" />
+    <!-- top book: green -->
+    <path
+        android:fillColor="#1F7A4D"
+        android:pathData="M208,70 h78 v22 h-78 Z" />
+    <path
+        android:fillColor="#3AAE6E"
+        android:pathData="M208,74 h78 v6 h-78 Z" />
+    <path
+        android:fillColor="#2E9E63"
+        android:pathData="M208,82 h78 v3.5 h-78 Z" />
+    <!-- yellow bookmark ribbon -->
+    <path
+        android:fillColor="#FFC928"
+        android:pathData="M256,70 h11 v28 l-5.5,-6.5 l-5.5,6.5 Z" />
+    <!-- sparkles -->
+    <path
+        android:fillColor="#FFC928"
+        android:pathData="M150,27 Q152,32 157,34 Q152,36 150,41 Q148,36 143,34 Q148,32 150,27 Z" />
+    <path
+        android:fillColor="#FFC928"
+        android:pathData="M322,61 Q324,64 327,66 Q324,68 322,71 Q320,68 317,66 Q320,64 322,61 Z" />
+    <path
+        android:fillColor="#FFC928"
+        android:pathData="M58,111 Q60,114 63,116 Q60,118 58,121 Q56,118 53,116 Q56,114 58,111 Z" />
+    <path
+        android:fillColor="#F5B800"
+        android:pathData="M124,104 Q125.5,107 129,108 Q125.5,109 124,112 Q122.5,109 119,108 Q122.5,107 124,104 Z" />
+</vector>

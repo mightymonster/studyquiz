@@ -1,0 +1,1011 @@
+{
+ "id": "pyq-1071-2025",
+ "category_no": "1071/25",
+ "title_en": "Junior Clerk Special Grade Class I",
+ "title_ml": "ജൂനിയർ ക്ലാർക്ക് സ്പെഷ്യൽ ഗ്രേഡ് ക്ലാസ് I",
+ "year": "2025",
+ "alpha": "A",
+ "official_key": "Notification 16/2025, Final",
+ "questions": [
+  {
+   "q": "Identify the correct tense form : If he _______ harder, he would have passed the examination.",
+   "options": [
+    "studies",
+    "studied",
+    "had studied",
+    "was studying"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Choose the correct article : He is _______ authority on medieval Indian history.",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Identify the correct preposition : The principal insisted _______ attending the seminar.",
+   "options": [
+    "on",
+    "for",
+    "at",
+    "about"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Choose the correct indirect speech form : He said, \"I can finish the work by tomorrow\".",
+   "options": [
+    "He said that he can finish the work by tomorrow",
+    "He said that he could finish the work by tomorrow",
+    "He said that he could finish the work by the next day",
+    "He said he can finish the work by the next day"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Choose the correct synonym for the word \"astute\".",
+   "options": [
+    "Foolish",
+    "Shrewd",
+    "Honest",
+    "Naïve"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Pick the correct antonym for the word \"melancholy\".",
+   "options": [
+    "Sorrow",
+    "Gloom",
+    "Cheerfulness",
+    "Silence"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Select the correct form of the verb : No sooner _______ the bell rung than the students rushed out.",
+   "options": [
+    "had",
+    "did",
+    "has",
+    "have"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Choose the correct question tag : I am late today, _______ ?",
+   "options": [
+    "am I",
+    "aren't I",
+    "isn't it",
+    "isn't I"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Choose the correct one-word substitute : A statement that contradicts itself but might be true.",
+   "options": [
+    "Paradox",
+    "Allegory",
+    "Irony",
+    "Fable"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Identify the correctly spelled word :",
+   "options": [
+    "Mischievous",
+    "Mischievious",
+    "Miscevious",
+    "Mischivous"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Official languages of UN are : / ഐക്യരാഷ്ട്രസഭയുടെ ഔദ്യോഗിക ഭാഷകൾ :",
+   "options": [
+    "Arabic, German, Japanese, English, Chinese and Russian / അറബിക്, ജർമ്മൻ, ജപ്പാനീസ്, ഇംഗ്ലീഷ്, ചൈനീസ്, റഷ്യൻ",
+    "Chinese, Japanese, English, Russian, French and Italian / ചൈനീസ്, ജപ്പാനീസ്, ഇംഗ്ലീഷ്, റഷ്യൻ, ഫ്രഞ്ച്, ഇറ്റാലിയൻ",
+    "Arabic, Chinese, English, French, Russian and Spanish / അറബിക്, ചൈനീസ്, ഇംഗ്ലീഷ്, ഫ്രഞ്ച്, റഷ്യൻ, സ്പാനിഷ്",
+    "English, Spanish, Japanese, German, Russian and Chinese / ഇംഗ്ലീഷ്, സ്പാനിഷ്, ജപ്പാനീസ്, ജർമ്മൻ, റഷ്യൻ, ചൈനീസ്"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Which revolutionary threw a bomb in the Central Legislative Assembly in 1929? / 1929-ൽ സെൻട്രൽ ലെജിസ്ലേറ്റീവ് അസംബ്ലിയിൽ ബോംബെറിഞ്ഞ വിപ്ലവകാരി ആരാണ്?",
+   "options": [
+    "Chandra Shekhar Azad / ചന്ദ്രശേഖർ ആസാദ്",
+    "Sukhdev / സുഖ്ദേവ്",
+    "Rajguru / രാജ്ഗുരു",
+    "Bhagat Singh / ഭഗത് സിംഗ്"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Who was the ruler of Travancore when the Temple Entry Proclamation was made? / ക്ഷേത്രപ്രവേശന വിളംബരം പുറപ്പെടുവിച്ചപ്പോൾ തിരുവിതാംകൂർ ഭരണാധികാരി ആരായിരുന്നു?",
+   "options": [
+    "Marthanda Varma / മാർത്താണ്ഡവർമ്മ",
+    "Chithira Thirunal Balarama Varma / ചിത്തിര തിരുനാൾ ബാലരാമവർമ്മ",
+    "Swathi Thirunal / സ്വാതി തിരുനാൾ",
+    "Ayilyam Thirunal / ആയില്യം തിരുനാൾ"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Who was known as the Father of Indian Renaissance? / ഇന്ത്യൻ നവോത്ഥാനത്തിന്റെ പിതാവ് എന്നറിയപ്പെടുന്നത് ആരാണ്?",
+   "options": [
+    "Swami Vivekananda / സ്വാമി വിവേകാനന്ദൻ",
+    "Raja Ram Mohan Roy / രാജാറാം മോഹൻ റോയ്",
+    "B.R. Ambedkar / ബി.ആർ. അംബേദ്കർ",
+    "Rabindranatha Tagore / രവീന്ദ്രനാഥ ടാഗോർ"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Who was the Chairman of the first Administrative Reforms Commission of Kerala? / കേരളത്തിലെ ഒന്നാം ഭരണ പരിഷ്കാര കമ്മീഷന്റെ അദ്ധ്യക്ഷൻ ആരായിരുന്നു?",
+   "options": [
+    "EMS Namboodiripad / ഇ.എം.എസ്. നമ്പൂതിരിപ്പാട്",
+    "C. Achutha Menon / സി. അച്യുതമേനോൻ",
+    "R. Sankar / ആർ. ശങ്കർ",
+    "Pattom Thanu Pillai / പട്ടം താണുപിള്ള"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The Goods and Services Tax (GST) was implemented in the year : / ചരക്ക് സേവന നികുതി (ജിഎസ്ടി) നടപ്പിലാക്കിയ വർഷം :",
+   "options": [
+    "2019 / 2019",
+    "2018 / 2018",
+    "2017 / 2017",
+    "2016 / 2016"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Which state is known as the \"Fruit Bowl of India\"? / \"ഇന്ത്യയുടെ പഴക്കിണ്ണം\" എന്നറിയപ്പെടുന്ന സംസ്ഥാനം :",
+   "options": [
+    "Himachal Pradesh / ഹിമാചൽ പ്രദേശ്",
+    "Jammu & Kashmir / ജമ്മു & കാശ്മീർ",
+    "Uttarakhand / ഉത്തരാഖണ്ഡ്",
+    "Sikkim / സിക്കിം"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Which district does the Periyar the largest River in Kerala originate from? / കേരളത്തിലെ ഏറ്റവും വലിയ നദിയായ പെരിയാർ ഏത് ജില്ലയിൽ നിന്നാണ് ഉത്ഭവിക്കുന്നത്?",
+   "options": [
+    "Pathanamthitta / പത്തനംതിട്ട",
+    "Thrissur / തൃശ്ശൂർ",
+    "Palakkad / പാലക്കാട്",
+    "Idukki / ഇടുക്കി"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Which Malayalam writer has been awarded the Kendra Sahitya Akademi's Yuva Sahitya Puraskar for the year 2025 for his novel Ram c/o Anandi? / രാം c/o ആനന്ദി എന്ന നോവലിന് 2025-ലെ കേന്ദ്ര സാഹിത്യ അക്കാദമിയുടെ യുവസാഹിത്യ പുരസ്കാരം നേടിയ മലയാള എഴുത്തുകാരൻ ആരാണ്?",
+   "options": [
+    "Sreejith Moothedam / ശ്രീജിത്ത് മൂത്തേടം",
+    "G. R. Indugopan / ജി.ആർ. ഇന്ദുഗോപൻ",
+    "Akhil P. Dharmajan / അഖിൽ പി. ധർമ്മജൻ",
+    "Gireesh P. C. / ഗിരീഷ് പി.സി."
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Which new insurance scheme has been launched by the Kerala government for Non-Resident Keralites (NRK)? / പ്രവാസി കേരളീയർക്കായി (NRK) കേരള സർക്കാർ ആരംഭിച്ച പുതിയ ഇൻഷുറൻസ് പദ്ധതി ഏതാണ്?",
+   "options": [
+    "Norka Suraksha / നോർക്ക സുരക്ഷ",
+    "Norka Plus / നോർക്ക പ്ലസ്",
+    "Norka Mediclaim / നോർക്ക മെഡിക്ലെയിം",
+    "Norka Care / നോർക്ക കെയർ"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Find the odd one 26, 65, 85, 52, 91 / ഒറ്റയാൻ ഏത്? 26, 65, 85, 52, 91",
+   "options": [
+    "52 / 52",
+    "91 / 91",
+    "26 / 26",
+    "85 / 85"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "If an article is sold for Rs. 178 at a loss of 11%, then for how many rupees it should be sold in order to get a profit of 12% / ഒരു സാധനം 178 രൂപയ്ക്ക് വിറ്റത് 11% നഷ്ടത്തിലാണ് എന്നാൽ അതേ സാധനം 12% ലാഭം കിട്ടുവാൻ എത്ര രൂപയ്ക്ക് വിൽക്കണം?",
+   "options": [
+    "222 / 222",
+    "224 / 224",
+    "223 / 223",
+    "221 / 221"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "PNDY : QMEX :: JRSF : ______ / PNDY : QMEX :: JRSF : ______",
+   "options": [
+    "KQET / KQET",
+    "KSTE / KSTE",
+    "KSRE / KSRE",
+    "KQTE / KQTE"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Complete the series : 1, 10, 55, 280, 1405, ______ / ശ്രേണി പൂർണ്ണമാക്കുക : 1, 10, 55, 280, 1405, ______",
+   "options": [
+    "7030 / 7030",
+    "5565 / 5565",
+    "6030 / 6030",
+    "7040 / 7040"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The average of 8 numbers 59, 64, 47, 68 x, 56, 48, 70 = 60 then x = ______ / 59, 64, 47, 68, x, 56, 48, 70 എന്നീ 8 സംഖ്യകളുടെ ശരാശരി 60 ആണ് എങ്കിൽ x =",
+   "options": [
+    "68 / 68",
+    "57 / 57",
+    "56 / 56",
+    "64 / 64"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "If December 31, 2014 is Wednesday, which day will be Republic day next year? / 2014 ഡിസംബർ 31 ബുധനാഴ്ച ആയാൽ അടുത്ത വർഷത്തെ റിപ്പബ്ലിക് ദിനം ഏത് ദിവസമായിരിക്കും?",
+   "options": [
+    "Sunday / ഞായർ",
+    "Monday / തിങ്കൾ",
+    "Tuesday / ചൊവ്വ",
+    "Wednesday / ബുധൻ"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Find the wrong number in the given series. 36, 54, 18, 27, 8, 13.5 / ശ്രേണിയിലെ തെറ്റായ സംഖ്യ കണ്ടെത്തുക : 36, 54, 18, 27, 8, 13.5",
+   "options": [
+    "18 / 18",
+    "27 / 27",
+    "8 / 8",
+    "13.5 / 13.5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "CAR = 4, BUS = 6, then TRAM = / CAR = 4, BUS = 6 ആയാൽ TRAM =",
+   "options": [
+    "6 / 6",
+    "7 / 7",
+    "8 / 8",
+    "9 / 9"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "If a train 120 m long takes 6 seconds to cross an electric post, what is the speed of the train? / 120 m നീളമുള്ള ഒരു ട്രെയിൻ ഒരു ഇലക്ട്രിക് പോസ്റ്റ് മറികടക്കാൻ 6 സെക്കന്റ് എടുത്താൽ ട്രെയിനിന്റെ വേഗം എത്ര?",
+   "options": [
+    "54 km/hr / 54 km/hr",
+    "90 km/hr / 90 km/hr",
+    "72 km/hr / 72 km/hr",
+    "40 km/hr / 40 km/hr"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A=2/5 B, B=3/4 C, then how much is A : B : C ? / A=2/5 B, B=3/4 C, ആയാൽ A : B : C എത്ര?",
+   "options": [
+    "6 : 15 : 20 / 6 : 15 : 20",
+    "3 : 5 : 10 / 3 : 5 : 10",
+    "6 : 5 : 7 / 6 : 5 : 7",
+    "3 : 5 : 4 / 3 : 5 : 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "A \"New View of Society\" is a book published by ______ / \"New View of Society\" എന്ന ബുക്ക് പ്രസിദ്ധീകരിച്ചതാരാണ്?",
+   "options": [
+    "Robert Owen / റോബർട്ട് ഓവൻ",
+    "V.L. Mehta / വി.എൽ. മേത്ത",
+    "D.R. Gadgil / ഡി.ആർ. ഗാഡ്ഗിൽ",
+    "None of these / ഇവരാരുമല്ല"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Setting up of small farmers development Agency was recommended by ______ / സ്മോൾ ഫാർമേഴ്സ് ഡവലപ്മെന്റ് ഏജൻസി രൂപീകരിക്കാൻ നിർദ്ദേശിച്ചതാര്?",
+   "options": [
+    "All India Rural Credit Review Committee / ആൾ ഇന്ത്യാ റൂറൽ ക്രെഡിറ്റ് റിവ്യൂ കമ്മിറ്റി",
+    "CRAFICARD / CRAFICARD",
+    "Gorwala Committee / ഗോർവാലാ കമ്മിറ്റി",
+    "Sivaraman Committee / ശിവരാമൻ കമ്മിറ്റി"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The Co-operative deposit Guarantee Scheme in Kerala was introduced in ______ / കേരളത്തിലെ സഹകരണ സ്ഥാപനങ്ങളുടെ നിക്ഷേപങ്ങൾക്ക് സർക്കാർ ഗ്യാരണ്ടി പ്രഖ്യാപിച്ചത് :",
+   "options": [
+    "2010 / 2010",
+    "2014 / 2014",
+    "2012 / 2012",
+    "2015 / 2015"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "The first Folk High School was established in Denmark in ______ / ഡെൻമാർക്കിലെ ആദ്യത്തെ ഫോക്ക് ഹൈസ്കൂൾ സ്ഥാപിതമായ വർഷം :",
+   "options": [
+    "1844 / 1844",
+    "1872 / 1872",
+    "1804 / 1804",
+    "1812 / 1812"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Head Quarters of Kerafed / കേരാഫെഡിന്റെ ആസ്ഥാനം :",
+   "options": [
+    "Eranakulam / എറണാകുളം",
+    "Thiruvanathapuram / തിരുവനന്തപുരം",
+    "Kozhikode / കോഴിക്കോട്",
+    "Kayamkulam / കായംകുളം"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "The year in which Kerala State Federation of SC/ST Development Co-operatives Ltd. was formed in ______ / കേരള സംസ്ഥാന പട്ടികജാതി / പട്ടികവർഗ്ഗ വികസന സഹകരണ ഫെഡറേഷൻ രൂപീകൃതമായ വർഷം :",
+   "options": [
+    "1981 / 1981",
+    "1982 / 1982",
+    "1985 / 1985",
+    "1991 / 1991"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Who was the minister of Co-operation at the time of first deposit mobilisation campaign in Kerala? / കേരളത്തിൽ ആദ്യ നിക്ഷേപ സമാഹരണ കാമ്പയിൻ നടന്ന സമയത്ത് സഹകരണ മന്ത്രി ആരായിരുന്നു?",
+   "options": [
+    "Baby John / ബേബി ജോൺ",
+    "E Chandrasekharan Nair / ഇ. ചന്ദ്രശേഖരൻ നായർ",
+    "Joseph Mundasseri / ജോസഫ് മുണ്ടശ്ശേരി",
+    "M.V. Raghavan / എം.വി. രാഘവൻ"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The District level Officer in charge of the Audit of Co-operative Societies. / സഹകരണ സംഘങ്ങളുടെ ഓഡിറ്റിന്റെ ചുമതലയുള്ള ജില്ലാതല ഉദ്യോഗസ്ഥൻ :",
+   "options": [
+    "Joint Registrar / ജോയിന്റ് രജിസ്ട്രാർ",
+    "Joint Director / ജോയിന്റ് ഡയറക്ടർ",
+    "Deputy Registrar / ഡെപ്യൂട്ടി രജിസ്ട്രാർ",
+    "Assistant Registrar / അസിസ്റ്റന്റ് രജിസ്ട്രാർ"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "KSCARD bank keeps sinking fund from / KSCARD ബാങ്ക് സിങ്കിംഗ് ഫണ്ട് രൂപീകരിക്കുന്നത് എന്തിൽ നിന്നാണ്?",
+   "options": [
+    "deposit / നിക്ഷേപം",
+    "profit / ലാഭം",
+    "debenture / കടപ്പത്രം",
+    "loan recovery / ലോൺ റിക്കവറി"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "The process of arousing sustaining and regulating activity is known as ______ / സുസ്ഥിരവും നിയന്ത്രിക്കുന്നതുമായ പ്രവർത്തനത്തെ ഉത്തേജിപ്പിക്കുന്ന പ്രക്രിയ അറിയപ്പെടുന്നത് :",
+   "options": [
+    "learning / പഠിക്കുന്നു",
+    "motivation / പ്രചോദനം",
+    "habit / ശീലം",
+    "maturation / പക്വത"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "The fund formed by handloom society's for capital formation. / മൂലധന രൂപീകരണത്തിനായി കൈത്തറി സൊസൈറ്റികൾ രൂപീകരിക്കുന്ന ഫണ്ട് :",
+   "options": [
+    "thrift fund / ത്രിഫ്റ്റ് ഫണ്ട്",
+    "sinking fund / സിങ്കിംഗ് ഫണ്ട്",
+    "cess fund / സെസ്സ് ഫണ്ട്",
+    "none of these / ഇവയൊന്നുമല്ല"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "An apex level marketing society in Kerala / കേരളത്തിലെ വിപണന സഹകരണ സംഘങ്ങളുടെ കേന്ദ്ര സംഘം :",
+   "options": [
+    "RAIDCO / റെയ്ഡ്കോ",
+    "RUBCO / റബ്കോ",
+    "RUBBER MARK / റബ്ബർമാർക്ക്",
+    "CAMPCO / കാംകോ"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Father of Co-operative common wealth / കോപ്പറേറ്റീവ് കോമൺവെൽത്തിന്റെ പിതാവ് :",
+   "options": [
+    "DR Gadgil / ഡി.ആർ. ഗാഡ്ഗിൽ",
+    "V.L. Mehta / വി.എൽ. മേത്ത",
+    "D.G. Karve / ഡി.ജി. കാർവേ",
+    "Federic Nicolson / ഫെഡറിക് നിക്കോൾസൺ"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "______ is the custodian of Principal State Partnership fund. / പ്രിൻസിപ്പൽ സ്റ്റേറ്റ് പാർട്ണർഷിപ്പ് ഫണ്ടിന്റെ സൂക്ഷിപ്പുകാരൻ :",
+   "options": [
+    "Urban Bank / അർബൻ ബാങ്ക്",
+    "State Co-operative Bank / സംസ്ഥാന സഹകരണ ബാങ്ക്",
+    "District Co-operative Bank / ജില്ലാ സഹകരണ ബാങ്ക്",
+    "None of these / ഇവയൊന്നുമല്ല"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What kind of product is \"Rubco Huat\"? / \"Rubco Huat\" എന്ത് തരം ഉൽപ്പന്നമാണ്?",
+   "options": [
+    "Chappals / ചപ്പൽ",
+    "Wood Products / വുഡ് പ്രോഡക്ട്",
+    "Baby Oil / ബേബി ഓയിൽ",
+    "Coconut Oil / കോക്കനട്ട് ഓയിൽ"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "________ means a close assessment of all affairs of the society including constitution, management and establishment, maintenance of books and accounts and other records and internal control system of the society and the extent to which its activities were useful in promoting the economic welfare of the members in accordance with the cooperative principles. / ______ എന്നാൽ സംഘത്തിന്റെ രൂപീകരണം, നടത്തിപ്പും സ്ഥാപനവും ബുക്കുകളുടെയും അക്കൗണ്ടുകളുടെയും മറ്റു രേഖകളുടെയും സൂക്ഷിക്കൽ, അഭ്യന്തര നിയന്ത്രണ സംവിധാനം ഉൾപ്പെടെയുള്ള സംഘത്തിന്റെ എല്ലാ കാര്യങ്ങളും സഹകരണ തത്വങ്ങൾക്കനുസരിച്ച് അംഗങ്ങളുടെ സാമ്പത്തിക ക്ഷേമം പ്രോത്സാഹിപ്പിക്കുന്നതിന് അതിന്റെ പ്രവർത്തനങ്ങൾ എത്രത്തോളം ഉപയോഗപ്രദമായിരുന്നു എന്നതിന്റെയും സസൂക്ഷ്മമായ വിലയിരുത്തൽ എന്നർത്ഥമാകുന്നു.",
+   "options": [
+    "team audit / ടീം ഓഡിറ്റ്",
+    "administrative audit / അഡ്മിനിസ്ട്രേറ്റീവ് ഓഡിറ്റ്",
+    "performance audit / പെർഫോർമൻസ് ഓഡിറ്റ്",
+    "compliance audit / കംപ്ലയൻസ് ഓഡിറ്റ്"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "The area of operation of a youth co-operative society shall be / ഒരു യുവജനസഹകരണ സംഘത്തിന്റെ പ്രവർത്തന മേഖല ______ ആയിരിക്കും.",
+   "options": [
+    "within one village / ഒരു വില്ലേജിനുള്ളിൽ",
+    "within one panchayath / ഒരു പഞ്ചായത്തിനുള്ളിൽ",
+    "within one taluk / ഒരു താലൂക്കിനുള്ളിൽ",
+    "within one district / ഒരു ജില്ലയ്ക്കുള്ളിൽ"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "The requirement of minimum share capital for registration of a society shall not be applicable to a / ഒരു സംഘം രജിസ്റ്റർ ചെയ്യുന്നതിന് നിഷ്കർഷിച്ചിട്ടുള്ള ചുരുങ്ങിയ ഓഹരി മൂലധനം സംബന്ധിച്ച വ്യവസ്ഥ ______ സംഘത്തിന് ബാധകമല്ല.",
+   "options": [
+    "Primary Agricultural Credit Society / പ്രാഥമിക കാർഷിക വായ്പ സംഘം",
+    "Primary Co-operative Agriculture and Rural Development Bank / പ്രാഥമിക കാർഷിക ഗ്രാമ വികസന ബാങ്ക്",
+    "Fisheries Societies / ഫിഷറീസ് സംഘങ്ങൾ",
+    "Primary Credit Society / പ്രാഥമിക വായ്പാ സംഘം"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "The share capital contribution or financial assistance to the subsidiary institution shall be met from ________ of the society. / അനുബന്ധ സ്ഥാപനങ്ങളിലേയ്ക്കുള്ള ഓഹരി മൂലധന വിഹിതമോ സാമ്പത്തിക സഹായമോ സംഘത്തിന്റെ ______ നിന്നും വഹിക്കേണ്ടതാണ്.",
+   "options": [
+    "the balance net profit / മിച്ച അറ്റാദായത്തിൽ",
+    "paid up share capital / പിരിഞ്ഞു കിട്ടിയ ഓഹരി മൂലധനത്തിൽ",
+    "net profit / അറ്റ ലാഭത്തിൽ",
+    "working capital / പ്രവർത്തന മൂലധനത്തിൽ"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Which of the following is not appllcable to the expulslon of a member? / ഒരു അംഗത്തിനെ അംഗത്വത്തിൽ നിന്നും പുറന്തള്ളുവാൻ ബാധകമല്ലാത്തത് ചുവടെ നൽകിയിട്ടുള്ളവയിൽ ഏതാണ്?",
+   "options": [
+    "Acted adversely to the interest of the society / സംഘതാത്പര്യത്തിന് വിരുദ്ധമായി പ്രവർത്തിക്കുക",
+    "Failed to comply with the provisions of the bye-laws of the society / നിയമാവലി വ്യവസ്ഥകൾ പാലിക്കുന്നതിൽ പരാജയപ്പെടുക",
+    "Resolution passed at a general body meeting / പൊതുയോഗത്തിൽ പ്രമേയം പാസ്സാക്കുക",
+    "Two-third majority of votes / മൂന്നിൽ രണ്ടു ഭൂരിപക്ഷവോട്ട്"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Which of the following shall not be kept open to inspection for the members of the society, free of charge at all reasonable times at the registered address of the society? / സംഘല അംഗങ്ങളുടെ പരിശോധനയ്ക്കായി സംഘത്തിന്റെ രജിസ്റ്റർ ചെയ്ത മേൽവിലാസത്തിൽ ഫീസിടാതെ ലഭ്യമാക്കേണ്ടതായത് ഏതാണ്?",
+   "options": [
+    "Upto date copy of the bye-laws of the society / കാലാകാലം പുതുക്കിയ സംഘനിയമാവലി",
+    "Latest audited Profit and Loss account of the society / സംഘത്തിന്റെ ഏറ്റവും പുതിയ ഓഡിറ്റ് ചെയ്ത ലാഭനഷ്ട കണക്ക്",
+    "Latest audited Balance Sheet of the Society / സംഘത്തിന്റെ ഏറ്റവും പുതിയ ഓഡിറ്റ് ചെയ്ത ബാക്കിപത്രം",
+    "Summary of defects included in the latest statutory audit report along with the rectification report approved by the committee and General Body / സംഘത്തിന്റെ പൊതുയോഗവും കമ്മിറ്റിയും അംഗീകരിച്ച തിരുത്തൽ റിപ്പോർട്ടിനൊപ്പം ഏറ്റവും പുതിയ സ്റ്റാറ്റ്യൂട്ടറി ഓഡിറ്റ് റിപ്പോർട്ടിൽ ഉൾപ്പെട്ട പോരായ്മകളുടെ സംഗ്രഹം"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "The maximum amount of share capital that an individual member can hold in an urban Cooperative Bank having RBI licence is limited to ______ / ആർ ബി ഐ യുടെ ലൈസൻസുള്ള ഒരു അർബൻ സഹകരണ ബാങ്കിൽ ഒരു വ്യക്തിഗത അംഗത്തിന് കൈവശം വയ്ക്കാവുന്ന പരമാവധി ഓഹരി മൂലധന തുക :",
+   "options": [
+    "5 percent of the share capital of the bank / ബാങ്കിന്റെ ഓഹരിമൂലധന തുകയുടെ 5 ശതമാനം",
+    "5 percent of the authorised share capital of the bank / ബാങ്കിന്റെ അംഗീകൃത ഓഹരി മൂലധന തുകയുടെ 5 ശതമാനം",
+    "10 percent of the share capital of the bank / ബാങ്കിന്റെ ഓഹരിമൂലധന തുകയുടെ 10 ശതമാനം",
+    "5 percent of the total paid up share capital of the bank / ബാങ്കിന്റെ ആകെ അടച്ചുതീർത്ത ഓഹരി മൂലധന തുകയുടെ 5 ശതമാനം"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "One seat in the committee of ______ shall be reserved for the members having a deposit of twenty five thousand rupees and above. / ________ ഭരണസമിതിയിൽ രൂപ ഇരുപത്തിഅയ്യായിരവും അതിനുമുകളിലും നിക്ഷേപമുള്ള അംഗങ്ങളിൽ നിന്നും ഒരു അംഗത്തിനായി സംവരണം ചെയ്തിരിക്കുന്നു.",
+   "options": [
+    "All Societies / എല്ലാ വിഭാഗം സംഘങ്ങളുടെ",
+    "Primary Credit Societies / പ്രാഥമിക വായ്പ സംഘങ്ങളുടെ",
+    "Urban Co-operative Banks / അർബൻ സഹകരണ ബാങ്കിന്റെ",
+    "Primary Credit societies and Urban Cooperative Banks / പ്രാഥമിക വായ്പാ സംഘത്തിന്റെയും അർബൻ സഹകരണ ബാങ്കിന്റെയും"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Annual General Body Meeting of a Society shall be held within a period of ______ / ഒരു സംഘത്തിന്റെ വാർഷിക പൊതുയോഗം ________ സമയപരിധിക്കുള്ളിൽ വിളിച്ചുകൂട്ടേണ്ടതാണ്.",
+   "options": [
+    "Six months after completion of audit / ഓഡിറ്റ് പൂർത്തിയാക്കി 6 മാസത്തിനകം",
+    "Six months of the close of the financial year / സാമ്പത്തിക വർഷം അവസാനിച്ച് 6 മാസത്തിനകം",
+    "Nine months of the close of financial year / സാമ്പത്തിക വർഷം അവസാനിച്ച് 9 മാസത്തിനകം",
+    "Four months of the close of financial year / സാമ്പത്തിക വർഷം അവസാനിച്ച് 4 മാസത്തിനകം"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A person nominated to the committee of an apex or a Central Society under Section 31 (1) ______ / വകുപ്പ് 31 (1) പ്രകാരം ഒരു കേന്ദ്ര അല്ലെങ്കിൽ അപ്പെക്സ് സംഘത്തിലേക്ക് നോമിനേറ്റ് ചെയ്യപ്പെടുന്ന വ്യക്തി : ⚠️ Official key (D) flagged: nominated members CAN vote in office-bearer elections (Pavihran v State of Kerala, 1979 KLT 874; KCS Rule 37(2)); only no-confidence discussion/vote barred (Sec 31(3)) — question has no correct option.",
+   "options": [
+    "shall not take part in the discussion of any no-confidence motion / അവിശ്വാസ പ്രമേയ ചർച്ചയിൽ പങ്കെടുത്തുകൂടാ",
+    "shall not vote on any no-confidence motion / അവിശ്വാസ പ്രമേയത്തിന്മേലുള്ള വോട്ടെടുപ്പിൽ പങ്കെടുത്തുകൂടാ",
+    "shall not take part in the voting for the election of office bearers / ഭാരവാഹി തെരഞ്ഞെടുപ്പിൽ വോട്ടുചെയ്തുകൂടാ",
+    "all of the above / മുകളിൽ പറഞ്ഞതെല്ലാം ബാധകം"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A Society shall not sanction loans and advances exceeding the IMBP fixed by the Registrar and as provided in the bye-laws of the society. For any contravention of this provision, ________ shall be liable for punishment.",
+   "options": [
+    "The Chief executive and the Committee",
+    "President",
+    "The Committee",
+    "The Chief Executive"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The Co-operative Arbitration Court on receipt of reference of a dispute shall pass an award ________",
+   "options": [
+    "within 3 months",
+    "within 6 months",
+    "within one year",
+    "within 3 years"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "________ of a Primary Anand Pattern Milk Cooperative Society shall be a woman/women.",
+   "options": [
+    "President",
+    "Vice President",
+    "President and Vice President",
+    "President or the Vice President"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Every Society having a net profit of Rs. 1,000 and above shall sit apart a sum calculated at 5 percent of the net profit for contribution to the Cooperative Education Fund subject to a maximum of",
+   "options": [
+    "Rs. 60,000",
+    "Rs. 1,00,000",
+    "Rs. 75,000",
+    "Rs. 2,00,000"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "The enrolment of members made by the Administrator or the Administrative Committee may either ratify or deny any such membership by the elected committee within",
+   "options": [
+    "a period of one year from the date of assuming charge",
+    "a period of six months from the date of election",
+    "a period of five years from the date of assuming charge",
+    "a period of 9 months from the date of election"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "According to ______ concept, every business transaction has a debit and credit effect. / ഏത് ആശയം അനുസരിച്ചാണ് എല്ലാ ബിസിനസ്സ് ഇടപാടുകൾക്കും ഒരു ഡെബിറ്റും ഒരു ക്രെഡിറ്റും ഫലം ഉണ്ടാകുന്നത്?",
+   "options": [
+    "Business Entity / ബിസിനസ്സ് എന്റിറ്റി",
+    "Going Concern / ഗോയിംഗ് കൺസേൺ",
+    "Realisation / റിയലൈസേഷൻ",
+    "Dual Aspect / ഡ്യുവൽ ആസ്പെക്റ്റ്"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Which account is credited when the bad debts are wrote off? / കടം എഴുതിത്തള്ളുമ്പോൾ ഏത് അക്കൗണ്ടാണ് ക്രെഡിറ്റു ചെയ്യുന്നത്?",
+   "options": [
+    "Debtor / ഡെബ്റ്റർ",
+    "Discount / ഡിസ്കൗണ്ട്",
+    "Bad Debt / കിട്ടാക്കടം",
+    "Sales Returns / സെയിൽസ് റിട്ടേൺസ്"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Name the process when the journal entry is transferred to ledger. / ജേർണൽ എൻട്രി ലഡ്ജറിലേക്ക് മാറ്റുന്ന പ്രക്രിയയുടെ പേര് എന്ത്?",
+   "options": [
+    "Posting / പോസ്റ്റിംഗ്",
+    "Balancing / ബാലൻസിംഗ്",
+    "Journalising / ജേർണലൈസിംഗ്",
+    "Auditing / ഓഡിറ്റിംഗ്"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Purchase returns book is a / പർച്ചേയ്സ് റിട്ടേൺസ് ബുക്ക് ഒരു ________ ആണ്.",
+   "options": [
+    "Journal Book / ജേർണൽ ബുക്ക്",
+    "Main Book / മെയിൻ ബുക്ക്",
+    "Day Book / നാൾവഴി",
+    "Subsidiary Book / സബ്സിഡിയറി ബുക്ക്"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A bill of exchange payable on demand is a / ആവശ്യപ്രകാരം കൊടുക്കേണ്ടുന്ന ബിൽ ഓഫ് എക്സ്ചേഞ്ച് ________ ആണ്.",
+   "options": [
+    "Trade Bill / ട്രേഡ് ബിൽ",
+    "Demand Bill / ഡിമാന്റ് ബിൽ",
+    "Accomodation Bill / അക്കോമഡേഷൻ ബിൽ",
+    "Promissory Bill / പ്രോമിസറി ബിൽ"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Outstanding wages are shown as / കുടിശ്ശിക വേതനം ________ ആയി പരിഗണിക്കുന്നു.",
+   "options": [
+    "An expense / ഒരു ചെലവ്",
+    "An asset / ഒരു ആസ്തി",
+    "A liability / ഒരു ബാധ്യത",
+    "An income / ഒരു വരുമാനം"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "The interest is due but not received is termed as / \"ലഭിക്കേണ്ട പലിശ പക്ഷേ ഇതുവരെ ലഭിച്ചിട്ടില്ല\" എന്നത് ________ ആയി കണക്കാക്കുന്നു.",
+   "options": [
+    "Outstanding expense / കുടിശ്ശികയായ ചെലവ്",
+    "Accrued income / അക്രൂഡ് വരുമാനം",
+    "Prepaid expense / മുൻകൂട്ടി കൊടുത്ത ചെലവ്",
+    "Unearned income / അൺഎൻഡ് വരുമാനം"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Net Purchase + Opening Stock − Closing Stock =",
+   "options": [
+    "Cost of sales",
+    "Cost of goods sold",
+    "Total sales",
+    "Net Sales"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What is the method of depreciation where depreciation is charged on the book value of the asset each year?",
+   "options": [
+    "Fixed instalment method",
+    "Depletion method",
+    "Diminishing balance method",
+    "Annuity method"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Stock velocity is expressed in the terms of ________",
+   "options": [
+    "Quantity of stock",
+    "Cost price of stock",
+    "Time period",
+    "Amount of goods sold"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A budget prepared on the basis of a standard or a fixed level of activity is ________",
+   "options": [
+    "Operating Budget",
+    "Flexible Budget",
+    "Fixed Budget",
+    "Master Budget"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Standard Price × (Standard Quantity for Actual Output − Actual Quantity) = ________",
+   "options": [
+    "Material Price Variance",
+    "Material Usage Variance",
+    "Material Cost Variance",
+    "Material Mix Variance"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "LIFO stands for ________",
+   "options": [
+    "Last-in-first-out",
+    "Least-in-first-out",
+    "Level-in-first-out",
+    "List-in-first-on"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Interest paid to depositors are ________",
+   "options": [
+    "a charge against profit",
+    "An appropriation of profit",
+    "A liability",
+    "An asset"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Expense incurred for factory work of a firm is _______ / ഒരു സ്ഥാപനത്തിലെ ഫാക്ടറിയിലെ ജോലികൾക്ക് ഉണ്ടാകുന്ന ചെലവ് ________ ആണ്.",
+   "options": [
+    "Works overhead / വർക്ക്സ് ഓവർഹെഡ്",
+    "Administrative overhead / ഭരണപരമായ ഓവർഹെഡ്",
+    "Selling and distribution overhead / വിൽപന-വിതരണ ഓവർഹെഡ്",
+    "Material overhead / മെറ്റീരിയൽ ഓവർഹെഡ്"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The amount of contribution in Margin of Safety equals to _______ / മാർജിൻ ഓഫ് സേഫ്റ്റിയിലെ കോൺട്രിബ്യൂഷൻ ________ ന് തുല്യമാണ്.",
+   "options": [
+    "Total cost / മൊത്തം കോസ്റ്റ്",
+    "Fixed cost and profit / ഫിക്സഡ് കോസ്റ്റും ലാഭവും",
+    "Fixed cost / ഫിക്സഡ് കോസ്റ്റ്",
+    "Profit / ലാഭം"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Cost of Debt Capital is met in the form of _______ / ________ രൂപത്തിലാണ് ഡെബ്റ്റ് (കടം വാങ്ങിയ) മൂലധനത്തിന്റെ കോസ്റ്റിനെ കാണുന്നത്.",
+   "options": [
+    "Interest / പലിശ",
+    "Dividend / ഡിവിഡന്റ്",
+    "Liability / ബാധ്യത",
+    "Interest and Dividend / പലിശയും ഡിവിഡന്റും"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Difference between current assets and current liabilities is known as _______ / കറന്റ് ആസ്തിയും കറന്റ് ബാധ്യതയും തമ്മിലുള്ള വ്യത്യാസം ________ ആണ്.",
+   "options": [
+    "Gross working capital / ഗ്രോസ് വർക്കിംഗ് കാപ്പിറ്റൽ",
+    "Overall working capital / ഓവർആൾ വർക്കിംഗ് കാപ്പിറ്റൽ",
+    "Liquid working capital / ലിക്വിഡ് വർക്കിംഗ് കാപ്പിറ്റൽ",
+    "Net working capital / നെറ്റ് വർക്കിംഗ് കാപ്പിറ്റൽ"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "What is the concept that outlines three conditions that typically lead to higher instances of job related fraud, i.e., Motivation, Opportunity and Rationalisation? / ജോലി സംബന്ധമായ ഉയർന്ന വഞ്ചനയിലേക്കു നയിക്കുന്ന മൂന്നു ഉപാധികളെ സൂചിപ്പിക്കുന്ന ആശയം (മോട്ടിവേഷൻ, അവസരം, യുക്തീകരണം - Motivation, Opportunity and Rationalisation) ഏതാണ്?",
+   "options": [
+    "Fraud Triangle / ഫ്രോഡ് ട്രയാംഗിൾ",
+    "Preventive internalisation of fraud / പ്രിവന്റീവ് ഇന്റേണലൈസേഷൻ ഓഫ് ഫ്രോഡ്",
+    "Utmost corruptive system / അറ്റ്മോസ്റ്റ് കറപ്റ്റീവ് സിസ്റ്റം",
+    "High level fraud / ഹൈ ലെവൽ ഫ്രോഡ്"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What account is prepared for non-business organisation in the place of Profit and Loss Account? / ലാഭ നഷ്ട കണക്കിന്റെ സ്ഥാനത്ത് നോൺ ബിസിനസ്സ് സ്ഥാപനങ്ങൾ തയ്യാറാക്കുന്ന അക്കൗണ്ട് ഏതാണ്?",
+   "options": [
+    "Receipts and Payment Account / റെസീപ്റ്റ്സ് ആന്റ് പേമെന്റ് അക്കൗണ്ട്",
+    "Income and Expenditure Account / ഇൻകം ആന്റ് എക്സ്പെൻഡിച്ചർ അക്കൗണ്ട്",
+    "Non-Trading Account / നോൺ-ട്രേഡിംഗ് അക്കൗണ്ട്",
+    "Cash Account / ക്യാഷ് അക്കൗണ്ട്"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Which of the following Acts are meant to regulate the Indian Banking System? / താഴെ പറയുന്ന നിയമങ്ങളിൽ ഇന്ത്യൻ ബാങ്കിംഗ് സംവിധാനത്തെ നിയന്ത്രിക്കാൻ ഉദ്ദേശിച്ചിട്ടുള്ളത് ഏതൊക്കെയാണ്?",
+   "options": [
+    "Negotiable Instrument Act, Banking Regulation Act, Companies Act / നെഗോഷ്യബിൾ ഇൻസ്ട്രുമെന്റ്സ് നിയമം, ബാങ്കിംഗ് റെഗുലേഷൻ നിയമം, കമ്പനി നിയമം എന്നിവ",
+    "RBI Act, Banking Regulation Act, Companies Act / ആർബിഐ നിയമം, ബാങ്കിംഗ് റെഗുലേഷൻ നിയമം, കമ്പനി നിയമം എന്നിവ",
+    "Banking Regulation Act, Prevention of Money laundering Act / ബാങ്കിംഗ് റെഗുലേഷൻ നിയമം, കള്ളപ്പണം വെളുപ്പിക്കൽ തടയൽ നിയമം എന്നിവ",
+    "RBI Act, Banking Regulation Act / ആർബിഐ നിയമം, ബാങ്കിംഗ് റെഗുലേഷൻ നിയമം എന്നിവ"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Regional Rural Banks are issued license for carrying banking business under / റീജിയണൽ റൂറൽ ബാങ്കുകൾക്ക് ബാങ്കിംഗ് ബിസിനസ്സ് നടത്തുന്നതിനുള്ള ലൈസൻസ് ഏതു നിയമപ്രകാരമാണ് നൽകിയിട്ടുള്ളത്?",
+   "options": [
+    "A special statute / ഒരു പ്രത്യേക നിയമം",
+    "Companies Act / കമ്പനി നിയമം",
+    "Cooperative Societies Act / കോ-ഓപ്പറേറ്റീവ് സൊസൈറ്റി നിയമം",
+    "Banking Regulation Act / ബാങ്കിംഗ് റെഗുലേഷൻ നിയമം"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Which of the following bank cannot give any loans to customers? / താഴെ പറയുന്നവയിൽ ഏത് ബാങ്കിനാണ് ഉപഭോക്താക്കൾക്ക് വായ്പകൾ നൽകാൻ അനുവാദമില്ലാത്തത്?",
+   "options": [
+    "Retail Banks / റീട്ടെയിൽ ബാങ്കുകൾ",
+    "Payment Banks / പേയ്മെന്റ് ബാങ്കുകൾ",
+    "Small Finance Banks / സ്മാൾ ഫിനാൻസ് ബാങ്കുകൾ",
+    "Universal Banks / യൂണിവേഴ്സൽ ബാങ്കുകൾ"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What is the amount of bank draft that can be issued by banks in cash under KYC directives of RBI? / ആർബിഐയുടെ കെവൈസി നിർദ്ദേശങ്ങൾ പ്രകാരം ബാങ്കുകൾക്ക് ക്യാഷ് ആയി പണം സ്വീകരിച്ച് എത്ര രൂപ വരെയുള്ള ഡ്രാഫ്റ്റ് നൽകാനാവും?",
+   "options": [
+    "Rs. 50,000 or less / 50,000 രൂപയോ അതിൽ കുറവോ",
+    "Rs. 50,000 or more / 50,000 രൂപയോ അതിൽ കൂടുതലോ",
+    "Less than Rs.50,000 / 50,000 രൂപയിൽ താഴെ",
+    "More than Rs. 50,000 / 50,000 രൂപയിൽ കൂടുതൽ"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Person to whom Power of Attorney is given is called _______ and who gives it, is called_______. / പവർ ഓഫ് അറ്റോർണി ലഭിക്കുന്ന വ്യക്തിയെ _______ എന്നും, അത് നൽകുന്നയാളെ _______ എന്നും വിളിക്കുന്നു.",
+   "options": [
+    "Debtor — Creditor / കടക്കാരൻ - കടം നൽകുന്നയാൾ (ഡെറ്റർ-ക്രെഡിറ്റർ)",
+    "Pawnar — Pawnee / പണയം വയ്ക്കുന്നയാൾ - അതു സ്വീകരിക്കുന്നയാൾ (പാണർ – പാണി)",
+    "Bailor — Bailee / ബെയ്ലർ – ബെയ്ലി",
+    "Donee — Donor / സ്വീകർത്താവ് – ദാതാവ് (ഡോണി – ഡോണർ)"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A & B maintain a Joint Account (F or S) with you. B gives a notice to you stating that bank should not to make any payment to A without B's signature. You will : / എ എന്നും ബി എന്നും പേരായ രണ്ടുപേർ നിങ്ങളുടെ ബാങ്കിൽ ഒരു ജോയിന്റ് അക്കൗണ്ട് (എഫ് അല്ലെങ്കിൽ എസ് എന്ന നിലയിൽ) നിലനിർത്തുന്നു. ബി യുടെ ഒപ്പില്ലാതെ ബാങ്ക് എ യ്ക്ക് ഒരു പേമെന്റും നടത്തരുതെന്നുകാണിച്ച് ബി നിങ്ങൾക്ക് ഒരു നോട്ടീസ് നൽകുന്നു. നിങ്ങൾ എന്തുചെയ്യും?",
+   "options": [
+    "Act as per the notice of B and seek signature of A & B in the account / ബി യുടെ നോട്ടീസ് അനുസരിച്ച് പ്രവർത്തിക്കുകയും അക്കൗണ്ടിൽ ഇടപാടിന് എ യുടെയും, ബി യുടെയും ഒപ്പ് വാങ്ങുകയും ചെയ്യുക",
+    "Ignore the notice from B because he will come into the picture only after the death of A / ബി യിൽ നിന്നുള്ള നോട്ടീസ് അവഗണിക്കുക, കാരണം എ യുടെ മരണശേഷം മാത്രമേ അദ്ദേഹം ചിത്രത്തിൽ വരു",
+    "Advise B to get a Court Order / കോടതി ഉത്തരവുമായി വരാൻ ബി യെ ഉപദേശിക്കുക",
+    "Ask A to convince B / ബി യെ കാര്യങ്ങൾ ബോധ്യപ്പെടുത്താൻ എ യോട് ആവശ്യപ്പെടുക"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Which of the following categories of persons/institutions are eligible to open savings accounts with a bank? / താഴെ പറയുന്ന വിഭാഗങ്ങളിൽ ഏതൊക്കെ വ്യക്തികൾക്കും സ്ഥാപനങ്ങൾക്കും ഒരു ബാങ്കിൽ സേവിംഗ്സ് അക്കൗണ്ട് തുടങ്ങാൻ അർഹതയുണ്ട്?",
+   "options": [
+    "Individuals either in single name or in joint names of two or more persons. / വ്യക്തികൾക്ക് തന്റെ ഒറ്റ പേരിലോ, അതോ രണ്ടോ അതിലധികമോ വ്യക്തികളുടെ കൂടെ ജോയിന്റായോ",
+    "Minors aged above 10 years can open and operate Savings bank account independently / 10 വയസ്സിന് മുകളിലുള്ള പ്രായപൂർത്തിയാകാത്തവർക്ക് സ്വന്തം പേരിൽ സേവിംഗ്സ് ബാങ്ക് അക്കൗണ്ട് തുറക്കാനും പ്രവർത്തിക്കാനും കഴിയും",
+    "Karta of HUF. / എച്ച്.യു.എഫിൽ (ഹിന്ദു കൂട്ടുകുടുംബം) കർത്തയ്ക്ക്",
+    "All the above can open SB accounts / മേൽപ്പറഞ്ഞവർക്കെല്ലാം എസ്. ബി. അക്കൗണ്ടുകൾ തുടങ്ങാൻ കഴിയും"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "The Right of Lien refers to / ലീനിലൂടെ (LIEN) ലഭിക്കുന്ന അവകാശം എന്നാൽ :",
+   "options": [
+    "Right of the Debtor to forego the securities / സെക്യൂരിറ്റികൾ വേണ്ടെന്നുവയ്ക്കാനുള്ള കടക്കാരന്റെ അവകാശം",
+    "Right of the Creditor to sell securities of the debtor / കടക്കാരന്റെ സെക്യൂരിറ്റികൾ വിൽക്കാനുള്ള, കടം നൽകിയവർക്കുള്ള അവകാശം",
+    "Right of the Creditor to retain possession of securities belonging to debtor / കടക്കാരന്റെ ഉടമസ്ഥതയിലുള്ള സെക്യൂരിറ്റികൾ കൈവശം വയ്ക്കാനുള്ള കടം നൽകിയവരുടെ അവകാശം",
+    "Right of the debtor to pledge the securities / സെക്യൂരിറ്റികൾ പണയം വയ്ക്കാനുള്ള കടക്കാരന്റെ അവകാശം"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Guarantees covering a series of transaction, is known as / വിവിധ ഇടപാടുകളുടെ പരമ്പരയ്ക്ക് ബാധകമാകുന്ന ഗ്യാരണ്ടികൾ _______ എന്ന് അറിയപ്പെടുന്നു.",
+   "options": [
+    "Continuing Guarantee / കണ്ടിന്യുയിംഗ് ഗ്യാരണ്ടി",
+    "Serial Guarantees / സീരിയൽ ഗ്യാരണ്ടികൾ",
+    "Guarantees in Series / ഗ്യാരണ്ടികളുടെ സീരീസ്",
+    "Contingent Guarantees / കണ്ടിഞ്ചന്റ് ഗ്യാരണ്ടികൾ"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Two or more minors, if desirous of opening a Savings bank account in your bank, whether they can open a Joint Savings Bank Account and allowed to operate as / നിങ്ങളുടെ ബാങ്കിൽ രണ്ടോ അതിൽക്കൂടുതലോ മൈനർമാർ ചേർന്ന് ഒരു സേവിംഗ്സ് ബാങ്ക് അക്കൗണ്ട് തുടങ്ങാൻ ആഗ്രഹിക്കുന്നുവെങ്കിൽ, അവർക്ക് ഒരു ജോയിന്റ് സേവിംഗ്സ് ബാങ്ക് അക്കൗണ്ട് എപ്രകാരം തുറന്ന് പ്രവർത്തിക്കാൻ കഴിയും?",
+   "options": [
+    "Either or Survivor / രണ്ടിൽ ആർക്കെങ്കിലുമൊരാൾക്ക് ഓപ്പറേറ്റ് ചെയ്യാനാകുന്ന \"ഇ അഥവാ എസ്\" എന്ന നിലയിൽ",
+    "Jointly operate / ജോയിന്റ് ഓപ്പറേഷനിൽ",
+    "Only two minors can open / രണ്ട് മൈനർമാർക്ക് ഒരുമിച്ച് മാത്രമേ അക്കൗണ്ട് തുടങ്ങാൻ കഴിയൂ",
+    "Two or more minors cannot open account / രണ്ടോ അതിലധികമോ മൈനറായവർക്ക് ചേർന്ന് അക്കൗണ്ട് തുടങ്ങാൻ കഴിയില്ല"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A Mandate is a/an _______ agreement / മാൻഡേറ്റ് ഒരു _______ എഗ്രിമെന്റാണ്.",
+   "options": [
+    "Stamped / സ്റ്റാമ്പ് ചെയ്ത എഗ്രിമെന്റാണ്",
+    "Unstamped / സ്റ്റാമ്പ് ചെയ്യാത്ത എഗ്രിമെന്റാണ്",
+    "Memorandum / മെമ്മോറാണ്ടമാണ്",
+    "Calculated / കാൽക്കുലേറ്റഡ് എഗ്രിമെന്റാണ്"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "According to the Indian Majority Act, 1875, every person domiciled in India, including a minor for whom, a guardian for the person is appointed by a court, attains the age of majority on his/her completing the age of : / 1875-ലെ ഇന്ത്യൻ മെജോറിറ്റി നിയമം അനുസരിച്ച്, കോടതി നിയമിച്ച രക്ഷകർത്താവുള്ള മൈനർ ഉൾപ്പെടെയുള്ള, ഇന്ത്യയിൽ സ്ഥിരതാമസമാക്കിയ ഓരോ വ്യക്തിയും പ്രായപൂർത്തിയാകുന്നത് എത്ര വയസ്സിലാണ്?",
+   "options": [
+    "16 years / 16 വയസ്സിൽ",
+    "18 years / 18 വയസ്സിൽ",
+    "21 years / 21 വയസ്സിൽ",
+    "24 years / 24 വയസ്സിൽ"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A cheque signed by the Secretary and Treasurer of a club presented for payment. The bank comes to know that the Secretary died yesterday in a road accident. The cheque : / ഒരു ക്ലബ്ബിന്റെ സെക്രട്ടറിയും ട്രഷററും ഒപ്പിട്ട ഒരു ചെക്ക് പണം നൽകാനായി ബാങ്കിൽ സമർപ്പിക്കുന്നു. സെക്രട്ടറി കഴിഞ്ഞ ദിവസം ഒരു റോഡപകടത്തിൽ മരിച്ചതായി ബാങ്കിന് വിവരം ലഭിക്കുന്നു. ചെക്ക് എന്തുചെയ്യും?",
+   "options": [
+    "Should be returned with the reason 'Refer to Drawer' / 'തന്നയാൾക്ക് റഫർ ചെയ്യുക' എന്ന കാരണം രേഖപ്പെടുത്തി മടക്കി നൽകണം",
+    "Should be returned with the reason, 'Account Holder reported dead' / 'അക്കൗണ്ട് ഉടമ മരിച്ചതായി റിപ്പോർട്ട് ചെയ്തു' എന്ന കാരണം രേഖപ്പെടുത്തി തിരികെ നൽകണം",
+    "Cheque should not be returned. Pay the cheque / ചെക്ക് തിരികെ നൽകരുത്. മാറിക്കൊടുക്കാം",
+    "Should be returned with the reason 'Present with Proper Signature' / 'ശരിയായ ഒപ്പോടെ സമർപ്പിക്കുക' എന്ന കാരണം രേഖപ്പെടുത്തി തിരികെ നൽകണം"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A Garnishee order attaches all money of the customer held by the bank in the capacity of a: / ഏതു നിലയിൽ ഇടപാടുകാർക്കുള്ള അക്കൗണ്ടുകളാണ് ഒരു ഗാർണിഷി ഓർഡറിന്റെ അടിസ്ഥാനത്തിൽ ബാങ്കിന് അറ്റാച്ചു ചെയ്യാനാകുന്നത്?",
+   "options": [
+    "Bailee / ബെയ്ലി എന്ന നിലയിൽ",
+    "Debtor / കടക്കാരൻ (ഡെറ്റർ) എന്ന നിലയിൽ",
+    "Trustee / ട്രസ്റ്റി എന്ന നിലയിൽ",
+    "Any one of the above / മുകളിൽ പറഞ്ഞിരിക്കുന്നവയിൽ ഏതെങ്കിലും ഒരു രീതിയിൽ"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "As per RBI guidelines a deposit account has to be classified as unclaimed deposit account and to be transferred to DEAF account with RBI, if there is no operation in the account for a period of _______ years. / റിസർവ്വ് ബാങ്ക് മാർഗ്ഗനിർദ്ദേശങ്ങൾ അനുസരിച്ച് ഒരു ഡെപ്പോസിറ്റ് അക്കൗണ്ട് ക്ലെയിം ചെയ്യാത്ത ഡെപ്പോസിറ്റ് അക്കൗണ്ടായി തരംതിരിക്കുകയും, ആ അക്കൗണ്ടിൽ _______ വർഷമായി ഒരു ഇടപാടും നടത്താതിരിക്കുമ്പോഴാണ് റിസർവ്വ് ബാങ്കിന്റെ ഡി.ഇ.എഫ്. അക്കൗണ്ടിലേക്ക് മാറ്റുകയും ചെയ്യേണ്ടത്.",
+   "options": [
+    "Five years / അഞ്ച് വർഷം",
+    "Ten years / പത്ത് വർഷം",
+    "Three years / മൂന്ന് വർഷം",
+    "All are incorrect / മേൽപ്പറഞ്ഞ എല്ലാ ഉത്തരങ്ങളും തെറ്റാണ്"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Which one of the following is not a category under Priority Sector? / ഇനിപ്പറയുന്നവയിൽ ഏതാണ് മുൻഗണനാ മേഖലയ്ക്ക് കീഴിലുള്ള വിഭാഗങ്ങളിൽ പെടാത്തത്?",
+   "options": [
+    "Social Infrastructure / സാമൂഹിക അടിസ്ഥാന സൗകര്യങ്ങൾ",
+    "Export Credit / കയറ്റുമതി വായ്പകൾ",
+    "Consumer Credit / ഉപഭോക്തൃവായ്പകൾ",
+    "Housing / ഭവന നിർമ്മാണം"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "With reference to One Time Password which one of the following is wrong? / വൺ ടൈം പാസ്വേഡ് സംബന്ധിച്ച് താഴെ പറയുന്നവയിൽ ഏതു കാര്യമാണ് തെറ്റ്?",
+   "options": [
+    "Consists of six digits / ഇതിൽ ആറ് അക്കങ്ങൾ അടങ്ങിയിരിക്കുന്നു",
+    "Valid for One transaction / ഒരു ഇടപാടിന് മാത്രം സാധുതയുള്ളതാണ്",
+    "Valid for certain span of time / ഒരു നിശ്ചിത സമയത്തേക്ക് സാധുതയുള്ളതായിരിക്കും",
+    "Receiving at the request of the customer / ഇടപാടുകാരന്റെ അഭ്യർത്ഥനപ്രകാരം ലഭിക്കുന്നതാണ്"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What is the minimum amount for which remittance is permitted under RTGS? / ആർ.ടി.ജി.എസ്. പ്രകാരം പണമടയ്ക്കാൻ അനുവദിക്കുന്ന ഏറ്റവും കുറഞ്ഞ തുക എത്രയാണ്?",
+   "options": [
+    "Rs. 1,00,000/- / 1,00,000 രൂപ",
+    "Rs. 2,00,000/- / 2,00,000 രൂപ",
+    "Rs. 50,000/- / 50,000 രൂപ",
+    "Rs. 10,00,000/- / 10,00,000 രൂപ"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Banks do not issue ATM card to : / ബാങ്കുകൾ എടിഎം കാർഡ് നൽകാത്തത് ആർക്കൊക്കെയാണ്?",
+   "options": [
+    "Persons who are insolvents / പാപ്പരായ വ്യക്തികൾ",
+    "Persons operating the accounts in representative capacity / ഒരു പ്രതിനിധി എന്ന നിലയിൽ അക്കൗണ്ടുകൾ പ്രവർത്തിപ്പിക്കുന്ന വ്യക്തികൾ",
+    "Joint account with mandate for joint operation / സംയുക്ത ഓപ്പറേഷന് മാൻഡേറ്റുള്ള ഒരു ജോയിന്റ് അക്കൗണ്ടിൽ",
+    "All the above / മുകളിൽ പറഞ്ഞിരിക്കുന്നവയ്ക്കൊന്നും നൽകില്ല"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "MICR code in the cheque consists of _______ digits. / ചെക്കിലെ എം.ഐ.സി.ആർ. കോഡിൽ _______ അക്കങ്ങൾ ഉണ്ട്.",
+   "options": [
+    "Six / ആറ്",
+    "Nine / ഒമ്പത്",
+    "Sixteen / പതിനാറ്",
+    "None of the above / മുകളിൽ പറഞ്ഞവയിൽ ഒന്നുമല്ല"
+   ],
+   "answer": 1
+  }
+ ]
+}

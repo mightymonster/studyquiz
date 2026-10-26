@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- head base (green, lightened for dark mode) -->
+    <path
+        android:fillColor="#00A88F"
+        android:pathData="M16,20 L16,29 C16,32.5 32,32.5 32,29 L32,20 L24,24.5 Z" />
+    <!-- mortarboard (lightened for dark mode) -->
+    <path
+        android:fillColor="#DCE9E5"
+        android:pathData="M24,4 L46,13.5 L24,23 L2,13.5 Z" />
+    <!-- board button -->
+    <path
+        android:fillColor="#00A88F"
+        android:pathData="M24,11.5 m-2.5,0 a2.5,2.5 0 1,0 5,0 a2.5,2.5 0 1,0 -5,0" />
+    <!-- tassel cord (left side) -->
+    <path
+        android:fillColor="#00A88F"
+        android:pathData="M8.5,12.5 L11,12.5 L11,28.5 L8.5,28.5 Z" />
+    <!-- tassel knob -->
+    <path
+        android:fillColor="#00A88F"
+        android:pathData="M9.75,26.5 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+    <!-- tassel strands -->
+    <path
+        android:fillColor="#00A88F"
+        android:pathData="M7,30.5 L12.5,30.5 L11.5,38 L8,38 Z" />
+</vector>
