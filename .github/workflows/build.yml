@@ -1,0 +1,56 @@
+# Builds the StudyQuiz APK on every push to main, using the same manual
+# toolchain (aapt2 + kotlinc + d8, no Gradle) as build.sh, via build-ci.sh.
+#
+# This workflow ONLY builds. It never creates releases, never touches
+# version.json, and never publishes anything. The built APK is uploaded
+# as a workflow artifact, downloadable from the repo's Actions tab.
+name: Build APK
+
+on:
+  push:
+    branches: [main]
+    # version.json is release tooling only; a version.json-only push
+    # should not trigger a build.
+    paths-ignore:
+      - 'version.json'
+  # Manual trigger from the repo's Actions tab (useful on a phone:
+  # add the file, then tap Run workflow — no code edit needed).
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+
+      - name: Set up Android SDK
+        run: |
+          yes | "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" --licenses > /dev/null
+          "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" "platforms;android-34" "build-tools;34.0.0"
+
+      - name: Download Kotlin compiler 1.9.24
+        run: |
+          curl -sL -o /tmp/kotlin.zip https://github.com/JetBrains/kotlin/releases/download/v1.9.24/kotlin-compiler-1.9.24.zip
+          unzip -q /tmp/kotlin.zip -d /tmp/kotlinc
+
+      - name: Build APK
+        env:
+          ANDROID_SDK_ROOT: ${{ env.ANDROID_SDK_ROOT }}
+          KOTLINC_BIN: /tmp/kotlinc/kotlinc/bin/kotlinc
+          KEYSTORE_B64: ${{ secrets.ANDROID_DEBUG_KEYSTORE_B64 }}
+          OUT: ${{ github.workspace }}/ci-build
+        run: bash build-ci.sh
+
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: StudyQuiz-apk
+          path: ci-build/StudyQuiz-*.apk
+          if-no-files-found: error
+          
