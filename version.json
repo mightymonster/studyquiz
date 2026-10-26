@@ -1,7 +1,7 @@
 {
-  "versionCode": 43,
-  "versionName": "1.43",
-  "apkUrl": "https://github.com/mightymonster/studyquiz/releases/download/v1.43/StudyQuiz-1.43.apk",
-  "notesMl": "പുതിയത് v1.43-ൽ ✨ Splash logo theme അനുസരിച്ച് മാറും 🌗 Dark theme, smooth banner, PYQ papers (1060/2025, 1045/2023, 1044/2023), quiz shuffle, notifications bell 🔔. Update ചെയ്താൽ bookmarks, history, progress എല്ലാം നിലനിൽക്കും.",
-  "notesEn": "v1.43: theme-aware splash logo, dark theme, seamless banner, PYQ papers (1060/2025, 1045/2023, 1044/2023), quiz shuffle, notifications. Updating keeps your bookmarks, history and progress."
+  "versionCode": 53,
+  "versionName": "1.53",
+  "apkUrl": "https://github.com/mightymonster/studyquiz/releases/download/v1.53/StudyQuiz-1.53.apk",
+  "notesMl": "പുതിയത് v1.53-ൽ ✨ 8 PYQ papers (പുതിയ 1071/25 + 1086/26, പുതിയ 2026 folder), 06/25 Secretary title fix, PSC 090/2026 പരീക്ഷാ തീയതി 27-01-2027, confirmation notification 🔔. Update ചെയ്താൽ bookmarks, history, progress എല്ലാം നിലനിൽക്കും.",
+  "notesEn": "v1.53: 8 PYQ papers (new 1071/25 + 1086/26, new 2026 folder), 06/25 Secretary title fix, PSC 090/2026 exam date 27-01-2027, confirmation notification. Updating keeps your bookmarks, history and progress."
 }
